@@ -1,0 +1,21 @@
+body {
+  background color = black;
+  font-family: Verdana;
+  text-align: center;
+  align-items: center;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+}
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+.footer {
+  text-align: right;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
