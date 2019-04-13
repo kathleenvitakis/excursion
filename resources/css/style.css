@@ -1,9 +1,4 @@
-body {
-  background color = black;
-  font-family: Verdana;
-  text-align: center;
-  align-items: center;
-}
+
 h1 {
   font-size: 50px;
   color: white;
@@ -18,4 +13,10 @@ a {
 p {
   font-size: 21px;
   color: gray;
+}
+body {
+  background color: black;
+  font-family: Verdana;
+  text-align: center;
+  align-items: center;
 }
